@@ -1,0 +1,17 @@
+Listado de DAC Disponibles:
+[patrón sugerido: Nombre del Paquete - URL - (Frameworks Soportados) - Tipo Licencia - Estado/Ultima Actualizacion.
+
+1- Específicos solo para Firebird (y en algunos casos por añadidura Interbase).
+IBDAC - https://www.devart.com/IBDAC/revision_history.html - (Delphi / Lazarus) - Comercial - Activo - 2020
+IBObjects - http://www.ibobjects.com/ - (Delphi / Lazarus) - Comercial - Activo - 2020
+FIBPlus - https://github.com/madorin/fibplus - (Delphi) - Comercial - Abandonado/LIberado - ?
+IBX For Lazarus - https://www.mwasoftware.co.uk/ibx - (Lazarus) - OpenSource - Activo - 2020
+UIB - https://github.com/hgourvest/uib
+IBX Delphi - http://docwiki.embarcadero.com/RADStudio/Rio/en/Getting_Started_with_InterBase_Express
+dbExpress Driver for Firebird/IB - https://www.devart.com/dbx/interbase/
+
+
+2- Multiples Motores, incluyendo Firebird.
+ZeosLIB
+UniDAC
+FireDAC
