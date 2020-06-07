@@ -1,0 +1,3 @@
+TurboBird - http://code.sd/turbobird/ - https://github.com/motaz/turbobird - (Lazarus) - (Windows / Linux)
+SQLHammer - https://github.com/runningmaster/sqlhammer - (Delphi) - (Windows) {DESCONTINUADO PRODUCTO DE DEVRACE}
+FBManager - https://github.com/lalexs75/FBManager - (Lazarus) - (Windows / Linux)
